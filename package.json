@@ -1,3 +1,4 @@
 {
-  "name": "doubly-linked-list"
+  "name": "doubly-linked-list",
+  "main": "./index.js"
 }
